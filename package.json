@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BlackAmda/QueenAmdi.git"
+    "url": "git+https://github.com/TechKnowLK/copyamdi2"
   },
   "keywords": [
     "whatsapp"
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/BlackAmda/QueenAmdi"
   },
-  "homepage": "https://github.com/BlackAmda/QueenAmdi#readme",
+  "homepage": "https://github.com/TechKnowLK/copyamdi2",
   "dependencies": {
     "@adiwajshing/baileys": "3.4.1",
     "@lh2020/speedtest-net": "^2.1.1",
